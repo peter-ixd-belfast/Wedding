@@ -16,12 +16,13 @@
 /*--Start Main Styling --*/
 
 body{
-    background: #f7f7f7;
+    background-image:url(../img/background.jpg);
     color:#333333;
     font-family: Fino Sans, Serif;
 
 }
 section,header{
+    background:#f7f7f7;
     width:80%;
     max-width:700px;
     margin:auto;
