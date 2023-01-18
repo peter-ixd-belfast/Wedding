@@ -28,8 +28,8 @@ section,header{
     margin:auto;
 }
 header,section{
-    margin-top:2rem;
-    margin-bottom: 2rem;
+    margin: 4rem 2rem 4rem 2rem;
+    
 
 }
 p {
@@ -52,39 +52,22 @@ h1{
 
 h2{
     font-size: 4.236rem;
-    margin: 1rem;
+    margin: 2rem;
     text-align: center;
 }
 
 h3{
     font-size:2.618rem;
     text-align: center;
-    margin: 1rem;
+    margin: 2rem;
 }
 
 h4{
     font-size: 1.618rem;
     text-align: center;
-    margin: 1rem;
+    margin: 2rem;
 }
 
-blockquote{
-    font-size:1.4rem;
-    font-style:italic;
-    color:black;
-    hanging-punctuation: first;
-    text-indent:-0.4rem;
-}
-blockquote cite{
-    padding: 1rem 0;
-    font-style: normal;
-   color:#333333;
-
-
-}
-.leader{
-    text-transform:uppercase;
-}
 
 /*--Styling Links--*/
 
