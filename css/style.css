@@ -121,15 +121,18 @@ nav a:hover {
     color:#ffc963;
     transition: all 0.3s ease-in-out;
 }
+
 /*--Style the CSS Grid--*/
 .grid-container{
     display:grid;
-    grid-template-columns: 1fr, 1fr;
+    grid-template-columns: 1fr 1fr;
     column-gap: 10px;
     max-width: 900px;
    justify-content: center;
 
 }
+
+
 /*--Image Styling--*/
 .img1{
    display: block;
@@ -186,4 +189,38 @@ footer {
     footer .connections a:hover svg path { 
     fill: #003333; 
     transition: all 0.3s ease-in-out;} 
+    @media (max-width:900px){
+        body{
+          font-size: 1em;
+        }
+        section,header,p{
+          width:80%;
+          max-width:600px;
+          margin:auto;
+          line-height:1.5em;
+      }
+      header,section{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
     
+    }
+      
+      
+    }
+    @media (max-width:480px){
+      body{
+        font-size: 0.85em;
+      }
+      section,header,p{
+        width:80%;
+        max-width: 400px;
+        margin:auto;
+        line-height:1.5em;
+    }
+    header,section{
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    
+    }
+
+    }
