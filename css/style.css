@@ -130,8 +130,8 @@ nav a:hover {
     grid-template-columns: 1fr 1fr;
     column-gap: 10px;
     max-width: 900px;
-   justify-content: space-evenly;
-   padding: 2rem 15rem 2rem 5rem;
+   justify-content: space-around;
+   padding: 2rem;
 
 }
 
