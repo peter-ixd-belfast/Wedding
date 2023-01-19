@@ -73,12 +73,12 @@ h4{
 /*--Styling Links--*/
 
 a{
-    color: black;
+    color: #976a00;
     text-decoration: none;
 }
 
 a:hover{
-    color:white;
+    color:#ffc963;
     transition: all 0.3s ease-in-out;
     border-bottom: 1px dotted;
 
@@ -117,7 +117,7 @@ nav a {
 
 nav a:hover {
     border-bottom: none;
-    color: red;
+    color:#ffc963;
     transition: all 0.3s ease-in-out;
 }
 /*--Style the CSS Grid--*/
