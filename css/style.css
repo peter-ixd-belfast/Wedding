@@ -8,7 +8,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-size: 125%;
+    font-size: 100%;
     font-weight: normal;
     line-height: 1em;
 }
@@ -33,6 +33,7 @@ section,header {
 }
 
 p {
+    font-size: 1.25rem;
     color: #cc9933;
     padding: 1rem;
     line-height: 1.5;
@@ -52,20 +53,20 @@ h1{
 
 h2{
     font-size: 4.236rem;
-    padding: 0.5rem;
+    padding: 1rem;
     text-align: center;
 }
 
 h3{
     font-size:2.618rem;
     text-align: center;
-    padding: 0.5rem;
+    padding: 1rem;
 }
 
 h4{
     font-size: 1.618rem;
     text-align: center;
-    padding: 0.5rem;
+    padding: 1rem;
 }
 
 
