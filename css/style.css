@@ -22,20 +22,21 @@ body{
 
 }
 section,header{
-    background:#f7f7f7;
+    background:#003300;
     width:80%;
     max-width:800px;
     margin:auto;
 }
 
 p {
+    color: #cc9933;
     padding: 1rem;
     line-height: 1.5;
     text-align: left;
 }
 
-h1,h2 {
-    color:black;  
+h1,h2,h3,h4 {
+    color:#cc9933;  
 }
 
 h1{
@@ -86,7 +87,7 @@ nav{
     left: 0;
     margin: 0;
     width: 100%;
-    background-color:red;
+    background-color:#003300;
     opacity: 85%;
     padding: 1.5rem 0;
     font-size: 0.75rem;
@@ -106,7 +107,7 @@ nav ul li {
 }
 
 nav a {
-    color: #f7f7f7;
+    color: #cc9933;
 }
 
 nav a:hover {
@@ -125,10 +126,10 @@ nav a:hover {
 
 /*--Styling the Footer--*/
 footer { 
-    background:black; 
+    background:#003300; 
     text-align: center; 
     font-size: 0.75rem; 
-    color: #f7f7f7; 
+    color: #cc9933; 
     padding: 4em 0 3em 0 
     } 
     
