@@ -122,17 +122,18 @@ nav a:hover {
 }
 /*--Style the CSS Grid--*/
 .grid-container{
-    max-width: 900px;
     display:grid;
+    grid-auto-flow: column;
     column-gap: 10px;
-    grid-template-columns: 1fr 1fr;
     justify-content: center;
 
 }
 /*--Image Styling--*/
 img{
-    max-width: 90%;
-    margin: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 95%;
 }
 
 
