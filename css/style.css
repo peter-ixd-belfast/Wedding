@@ -125,21 +125,11 @@ nav a:hover {
     transition: all 0.3s ease-in-out;
 }
 
-/*--Style the CSS Grid--*/
-.grid-container{
-    display:grid;
-    grid-template-columns: auto auto;
-    padding: 2rem;
 
-}
-.griditem{
-    display:flex;
-    justify-content: center;
-}
 
 
 /*--Image Styling--*/
-.img1{
+img{
    display: block;
    margin-left: auto;
    margin-right: auto;
