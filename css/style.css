@@ -129,7 +129,11 @@ nav a:hover {
     justify-content: center;
 
 }
-
+/*--Image Styling--*/
+img{
+    max-width: 90%;
+    margin: auto;
+}
 
 
 /*--Styling the Footer--*/
