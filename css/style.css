@@ -129,8 +129,6 @@ nav a:hover {
 .grid-container{
     display:grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 25px;
-    place-content: center;
     padding: 2rem;
 
 }
