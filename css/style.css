@@ -28,8 +28,8 @@ section,header{
     margin:auto;
 }
 section,header {
-    margin-top: 1rem;
-    margin-bottom:1rem;
+    margin-top: 2rem;
+    margin-bottom:2rem;
 }
 
 p {
@@ -53,7 +53,7 @@ h1{
 
 h2{
     font-size: 4.236rem;
-    padding: 1rem;
+    padding: 2rem;
     text-align: center;
 }
 
