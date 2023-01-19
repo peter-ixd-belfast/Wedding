@@ -194,6 +194,7 @@ footer {
     transition: all 0.3s ease-in-out;} 
     @media (max-width:900px){
         body{
+            max-width: 100%;
           font-size: 1em;
         }
         section,header,p{
@@ -223,6 +224,7 @@ footer {
     }
     @media (max-width:480px){
       body{
+        max-width: 100%;
         font-size: 0.85em;
       }
       section,header,p{
