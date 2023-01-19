@@ -129,6 +129,7 @@ nav a:hover {
     column-gap: 10px;
     max-width: 900px;
    justify-content: space-evenly;
+   padding: 1rem;
 
 }
 
