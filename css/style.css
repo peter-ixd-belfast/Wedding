@@ -125,7 +125,8 @@ nav a:hover {
     display:grid;
     grid-auto-flow: column;
     column-gap: 10px;
-    justify-content: center;
+    max-width: 900px;
+   
 
 }
 /*--Image Styling--*/
