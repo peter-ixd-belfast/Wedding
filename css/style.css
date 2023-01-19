@@ -130,7 +130,7 @@ nav a:hover {
     grid-template-columns: 1fr 1fr;
     column-gap: 10px;
     max-width: 900px;
-   justify-content: space-around;
+   justify-content: center;
    padding: 2rem;
 
 }
@@ -187,10 +187,10 @@ footer {
     .connections svg { 
     margin: 1em auto;} 
     .connections a:hover svg path { 
-    fill: #003333; 
+    fill: #cc9933; 
     transition: all 0.3s ease-in-out;} 
     footer .connections a:hover svg path { 
-    fill: #003333; 
+    fill: #cc9933; 
     transition: all 0.3s ease-in-out;} 
     @media (max-width:900px){
         body{
