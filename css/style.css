@@ -144,12 +144,13 @@ footer {
     text-align: center; 
     font-size: 0.75rem; 
     color: #cc9933; 
-    padding: 4em 0 3em 0 
+    padding: 4em 0 3em 0; 
     } 
     
     footer p { 
     margin: auto;
-    max-width:80% 
+    max-width:80%;
+    text-align: center; 
     } 
     
     .connections{ 
