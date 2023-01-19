@@ -22,7 +22,7 @@ body{
 
 }
 section,header{
-    background:#003300;
+    background:#003333;
     width:80%;
     max-width:800px;
     margin:auto;
@@ -91,7 +91,7 @@ nav{
     left: 0;
     margin: 0;
     width: 100%;
-    background-color:#003300;
+    background-color:#003333;
     opacity: 85%;
     padding: 1.5rem 0;
     font-size: 0.75rem;
@@ -130,7 +130,7 @@ nav a:hover {
 
 /*--Styling the Footer--*/
 footer { 
-    background:#003300; 
+    background:#003333; 
     text-align: center; 
     font-size: 0.75rem; 
     color: #cc9933; 
@@ -169,9 +169,9 @@ footer {
     .connections svg { 
     margin: 1em auto;} 
     .connections a:hover svg path { 
-    fill: white; 
-    transition: all 0.2s ease-in-out;} 
+    fill: #003333; 
+    transition: all 0.3s ease-in-out;} 
     footer .connections a:hover svg path { 
-    fill: white; 
-    transition: all 0.2s ease-in-out;} 
+    fill: #003333; 
+    transition: all 0.3s ease-in-out;} 
     
