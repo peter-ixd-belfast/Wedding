@@ -27,6 +27,10 @@ section,header{
     max-width:800px;
     margin:auto;
 }
+section,header {
+    margin-top: 1rem;
+    margin-bottom:1rem;
+}
 
 p {
     color: #cc9933;
