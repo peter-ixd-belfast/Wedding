@@ -56,7 +56,8 @@ h1{
 
 h2{
     font-size: 4.236rem;
-    padding: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
     text-align: center;
 }
 
@@ -222,7 +223,7 @@ footer {
       }
       
     }
-    
+
     @media only screen and (max-width:480px){
       body{
         max-width: 100%;
