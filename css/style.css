@@ -1,4 +1,4 @@
-/*--Add Font Hitchcock--*/
+/*--Add Font Verve--*/
 @font-face {
     font-family: "wedding";
     src: url(../css/fonts/Verve.ttf);
@@ -30,7 +30,7 @@ section,header{
 
 p {
     padding: 1rem;
-    line-height: 1.3;
+    line-height: 1.5;
     text-align: left;
 }
 
@@ -41,26 +41,26 @@ h1,h2 {
 h1{
     font-family: wedding;
     font-size: 6.854rem;
-    padding: 6rem 0rem 2rem 0rem;
+    padding: 6rem 0rem 1rem 0rem;
     text-align: center;
 }
 
 h2{
     font-size: 4.236rem;
-    padding: 1rem;
+    padding: 0.5rem;
     text-align: center;
 }
 
 h3{
     font-size:2.618rem;
     text-align: center;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 h4{
     font-size: 1.618rem;
     text-align: center;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 
@@ -121,52 +121,7 @@ nav a:hover {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
 
-/*-- Styling the Table--*/
-table{
-    margin:auto;
-    display:table;
-    border-collapse:collapse;
-    border-spacing: 2px;
-    margin-bottom:2rem;
-    width:100%;
-    }
 
-    caption{
-        margin: 1.5em 0;
-        text-transform:uppercase;
-        letter-spacing:0.5px;
-    }
-
-    th{
-        text-transform:uppercase;
-        font-weight:normal;
-        text-align:left;
-        color:#f7f7f7;
-        background:black;
-    }
-    th,td{
-        padding:+0.4em;
-    }
-
-    table, td{
-        background: white;
-        border: 2px solid black;
-    }
-    /*-- Image Styling--*/
-    img{
-        display: block;
-        margin-bottom:2rem;
-        width:100%;
-        padding:0;
-    }
-    /*-- Styling the Horizontal Rule--*/
-    hr{
-        margin: 1rem 0;
-        height: 1px;
-        background-color:black;
-        color:black;
-        border: none;
-    }
 
 /*--Styling the Footer--*/
 footer { 
