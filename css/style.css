@@ -129,9 +129,8 @@ nav a:hover {
     display:grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 10px;
-    max-width: 900px;
-   justify-content: center;
-   padding: 2rem;
+    justify-content: center;
+    padding: 2rem;
 
 }
 
