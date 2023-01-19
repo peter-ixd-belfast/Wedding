@@ -17,6 +17,7 @@
 
 body{
     background-image:url(../img/background.jpg);
+    max-width:100%;
     color:#333333;
     font-family: Fino Sans, Serif;
 
@@ -130,7 +131,7 @@ nav a:hover {
 
 }
 /*--Image Styling--*/
-img{
+.img1{
    display: block;
    margin-left: auto;
    margin-right: auto;
