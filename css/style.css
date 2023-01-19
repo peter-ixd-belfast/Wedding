@@ -204,7 +204,18 @@ footer {
         margin-bottom: 2rem;
     
     }
-      
+    h1{
+        font-size: 4.236em;
+    }
+      h2{
+        font-size: 2.618em;
+      }
+      h3{
+        font-size: 1.618em;
+      }
+      h4{
+        font-size: 1.25em;
+      }
       
     }
     @media (max-width:480px){
@@ -221,6 +232,19 @@ footer {
       margin-top: 2rem;
       margin-bottom: 2rem;
     
+    }
+    h1{
+        font-size: 3.6em;
+    }
+    h2{
+        font-size: 2.3em;
+
+    }
+    h3{
+        font-size:1.3em;
+    }
+    h4{
+        font-size: 1em;
     }
 
     }
