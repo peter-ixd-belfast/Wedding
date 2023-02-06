@@ -145,7 +145,7 @@ img{
 /*--Styling The Table--*/
 table{
     border:none;
-    width:50%;
+    width:60%;
     margin:auto;
 }
 th{
@@ -157,7 +157,7 @@ td
 {
     color:#cc9933;
     text-align: center;
-    font-size:1.618rem;   
+    font-size: 1rem;   
 }
 /*--Styling the Footer--*/
 footer { 
