@@ -125,11 +125,11 @@ nav a:hover {
     transition: all 0.3s ease-in-out;
 }
 
-#poem{
+.poem{
     text-align: center;
 }
 
-#bride
+.bride
 {
     padding:0.5rem;
 }
