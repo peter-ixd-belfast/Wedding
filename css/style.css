@@ -151,8 +151,13 @@ table{
 th{
     color:#cc9933;
     text-align: center;
-    font-weight:bold;
     font-size:1.618rem;
+}
+td
+{
+    color:#cc9933;
+    text-align: center;
+    font-size:1.618rem;   
 }
 /*--Styling the Footer--*/
 footer { 
