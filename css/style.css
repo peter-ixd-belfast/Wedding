@@ -142,7 +142,10 @@ img{
    padding-top: 2rem;
    width: 95%;
 }
-
+/*--Styling The Table--*/
+table{
+    border:none;
+}
 
 /*--Styling the Footer--*/
 footer { 
