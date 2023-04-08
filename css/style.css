@@ -193,6 +193,10 @@ ul{
     font-size: 1.25rem;
     line-height: 1.5;
     text-align: center;
+    padding: 1rem;
+}
+li{
+    padding:1rem;
 }
 
 /*--Styling the Footer--*/
