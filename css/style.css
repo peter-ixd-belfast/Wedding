@@ -38,8 +38,7 @@ header{
     background:#003333;
     width:80%;
     max-width:900px;
-    margin-top: 2rem;
-    margin-bottom:2rem;
+    margin:auto;
 
 }
 
@@ -278,7 +277,7 @@ footer {
     
     }
     nav{
-        position: fixed;
+        position: top;
         top: 0;
         left: 0;
         margin: 0;
@@ -355,7 +354,7 @@ header,section{
     
     }
     nav{
-        position: fixed;
+        position: top;
         top: 0;
         left: 0;
         margin: 0;
