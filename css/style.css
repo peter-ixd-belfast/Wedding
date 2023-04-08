@@ -181,6 +181,12 @@ td
    
 
 }
+/*--Styling the Lists--*/
+ul{
+    color:#cc9933;
+    font-size: 1.25rem;
+    text-align: center;
+}
 /*--Styling the Footer--*/
 footer { 
     background:#003333; 
