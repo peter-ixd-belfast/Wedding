@@ -280,7 +280,7 @@ footer {
     
     }
     nav{
-        position: top;
+        position: absolute;
         top: 0;
         left: 0;
         margin: 0;
@@ -357,7 +357,7 @@ header,section{
     
     }
     nav{
-        position: top;
+        position: absolute;
         top: 0;
         left: 0;
         margin: 0;
