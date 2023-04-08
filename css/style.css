@@ -34,10 +34,12 @@ section{
 div{
     margin-top: 2rem;
     margin-bottom: 2rem;
+    padding: 1rem;
 }
 section {
     margin-top: 2rem;
     margin-bottom:2rem;
+    padding: 1rem;
 }
 
 p {
@@ -263,13 +265,13 @@ footer {
             max-width: 100%;
           font-size: 1rem;
         }
-        section,header,p{
+        section,p{
           width:80%;
           max-width:600px;
           margin:auto;
           line-height:1.5em;
       }
-    section,header{
+    section{
         margin-top: 2rem;
         margin-bottom: 2rem;
     
@@ -320,11 +322,7 @@ footer {
     padding-bottom:2rem;
 }
 #top{
-    margin-top: 4rem;
-    padding: 2rem, 0rem, 1rem, 0rem;
-}
-#header{
-    margin-top: 2rem;
+    margin-top: 15rem;
 
 }
 
@@ -340,13 +338,13 @@ footer {
         max-width: 100%;
         font-size: 1rem;
       }
-      section,header,p{
+      section,p{
         width:80%;
         max-width: 400px;
         margin:auto;
         line-height:1.5em;
     }
-header,section{
+section{
       margin-top: 2rem;
       margin-bottom: 2rem;
     
