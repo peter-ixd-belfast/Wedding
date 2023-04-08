@@ -329,7 +329,7 @@ footer {
     @media only screen and (max-width:480px){
       body{
         max-width: 100%;
-        font-size: 0.85rem;
+        font-size: 1rem;
       }
       section,header,p{
         width:80%;
@@ -351,37 +351,37 @@ header,section{
         background-color:#003333;
         opacity: 85%;
         padding: 1.5rem 0;
-        font-size: 0.5rem;
+        font-size: 0.85rem;
     }
     
     h1{
-        font-size: 3.6rem;
+        font-size: 4.236rem;
     }
 
     h2{
-        font-size: 2.3rem;
+        font-size: 2.618rem;
 
     }
     h3{
-        font-size:1.3rem;
+        font-size:1.618rem;
     }
     h4{
-        font-size: 1rem;
+        font-size: 1.25rem;
     }
     /*--Styling Classes and Ids--*/
 .poem{
-    font-size: 1rem;
+    font-size: 1.25rem;
     text-align: center;
     line-height:1.5;
 }
 
 .bride
 {
-    font-size: 2.3rem;
+    font-size: 2.618rem;
     padding:0.5rem;
 }
 .groom{
-    font-size: 1.3rem
+    font-size: 1.618rem
 }
 
 #td
