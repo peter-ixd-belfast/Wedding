@@ -266,7 +266,18 @@ footer {
         margin-bottom: 2rem;
     
     }
- 
+    nav{
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color:#003333;
+        opacity: 85%;
+        padding: 1.5rem 0;
+        font-size: 0.85rem;
+    }
+    
     h1{
         font-size: 4.236rem;
     }
@@ -303,17 +314,6 @@ footer {
 #top{
     padding-bottom: 1rem;
 }
-nav{
-    position: fixed;
-    top: 0;
-    left: 0;
-    margin: 0;
-    width: 100%;
-    background-color:#003333;
-    opacity: 85%;
-    padding: 1.5rem 0;
-    font-size: 0.85rem;
-}
 
       
     }
@@ -337,6 +337,18 @@ header,section{
       margin-bottom: 2rem;
     
     }
+    nav{
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color:#003333;
+        opacity: 85%;
+        padding: 1.5rem 0;
+        font-size: 0.5rem;
+    }
+    
     h1{
         font-size: 3.6rem;
     }
@@ -374,17 +386,6 @@ header,section{
 }
 #top{
     padding-bottom: 1rem;
-}
-nav{
-    position: fixed;
-    top: 0;
-    left: 0;
-    margin: 0;
-    width: 100%;
-    background-color:#003333;
-    opacity: 85%;
-    padding: 1.5rem 0;
-    font-size: 0.5rem;
 }
 
 
