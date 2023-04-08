@@ -24,15 +24,23 @@ body{
     font-style: normal; 
 
 }
-section,header{
+section{
     background:#003333;
     width:80%;
     max-width:900px;
     margin:auto;
 }
-section,header {
+section {
     margin-top: 2rem;
     margin-bottom:2rem;
+}
+header{    
+    background:#003333;
+    width:80%;
+    max-width:900px;
+    margin-top: 2rem;
+    margin-bottom:2rem;
+
 }
 
 p {
@@ -151,7 +159,7 @@ nav a:hover {
     padding-bottom:2rem;
 }
 #top{
-    margin-top: 4rem;
+    margin-top: 7rem;
    
 }
 
