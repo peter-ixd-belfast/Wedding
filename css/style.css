@@ -134,6 +134,7 @@ nav a:hover {
 
 .bride
 {
+    font-size: 1.618rem;
     padding:0.5rem;
 }
 
@@ -145,6 +146,7 @@ nav a:hover {
 #top{
     padding-bottom: 1rem;
 }
+
 
 /*--Image Styling--*/
 img{
@@ -270,14 +272,17 @@ footer {
         margin:auto;
         line-height:1.5em;
     }
-    header,section{
+section{
       margin-top: 2rem;
       margin-bottom: 2rem;
     
     }
+    header{
+        margin-top:4rem;
+    margin-bottom:2rem;
+}
     #header{
-        margin-top: 4rem;
-        margin-bottom:2rem
+       padding: 2rem;
     }
     h1{
         font-size: 3.6em;
