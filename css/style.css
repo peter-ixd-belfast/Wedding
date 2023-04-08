@@ -91,6 +91,7 @@ a:hover{
 span{
     text-align:center;
 }
+
 /*-- Navigation--*/
 
 nav{
@@ -128,6 +129,7 @@ nav a:hover {
     transition: all 0.3s ease-in-out;
 }
 
+/*--Styling Classes and Ids--*/
 .poem{
     font-size: 1.25rem;
     text-align: center;
@@ -161,6 +163,7 @@ img{
    padding-top: 2rem;
    width: 95%;
 }
+
 /*--Styling The Table--*/
 table{
     border:none;
@@ -183,6 +186,7 @@ td
    
 
 }
+
 /*--Styling the Lists--*/
 ul{
     color:#cc9933;
@@ -190,6 +194,7 @@ ul{
     line-height: 1.5;
     text-align: center;
 }
+
 /*--Styling the Footer--*/
 footer { 
     background:#003333; 
@@ -238,6 +243,9 @@ footer {
     fill: #cc9933; 
     transition: all 0.3s ease-in-out;} 
 
+
+
+    /*--Styling for Tablet Screens--*/
     @media only screen and (max-width:768px){
         body{
             max-width: 100%;
@@ -254,9 +262,7 @@ footer {
         margin-bottom: 2rem;
     
     }
-    #header{
-        padding-top: 2rem;
-    }
+ 
     h1{
         font-size: 4.236em;
     }
@@ -272,6 +278,9 @@ footer {
       
     }
 
+
+
+    /*--Styling For Phone Screens--*/
     @media only screen and (max-width:480px){
       body{
         max-width: 100%;
@@ -288,13 +297,10 @@ header,section{
       margin-bottom: 2rem;
     
     }
-
-    #header{
-       padding-top: 4rem;
-    }
     h1{
         font-size: 3.6em;
     }
+
     h2{
         font-size: 2.3em;
 
