@@ -249,7 +249,7 @@ footer {
     @media only screen and (max-width:768px){
         body{
             max-width: 100%;
-          font-size: 1em;
+          font-size: 1rem;
         }
         section,header,p{
           width:80%;
@@ -264,17 +264,41 @@ footer {
     }
  
     h1{
-        font-size: 4.236em;
+        font-size: 4.236rem;
     }
       h2{
-        font-size: 2.618em;
+        font-size: 2.618rem;
       }
       h3{
-        font-size: 1.618em;
+        font-size: 1.618rem;
       }
       h4{
-        font-size: 1.25em;
+        font-size: 1.25rem;
       }
+      /*--Styling Classes and Ids--*/
+.poem{
+    font-size: 1.25rem;
+    text-align: center;
+    line-height:1.5;
+}
+
+.bride
+{
+    font-size: 2.618rem;
+    padding:0.5rem;
+}
+.groom{
+    font-size: 1.618rem
+}
+
+#td
+{
+    padding-top:0.5rem;
+    padding-bottom:2rem;
+}
+#top{
+    padding-bottom: 1rem;
+}
       
     }
 
@@ -311,5 +335,29 @@ header,section{
     h4{
         font-size: 1em;
     }
+    /*--Styling Classes and Ids--*/
+.poem{
+    font-size: 1rem;
+    text-align: center;
+    line-height:1.5;
+}
+
+.bride
+{
+    font-size: 2.3rem;
+    padding:0.5rem;
+}
+.groom{
+    font-size: 1.3rem
+}
+
+#td
+{
+    padding-top:0.5rem;
+    padding-bottom:2rem;
+}
+#top{
+    padding-bottom: 1rem;
+}
 
     }
