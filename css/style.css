@@ -134,8 +134,11 @@ nav a:hover {
 
 .bride
 {
-    font-size: 1.618rem;
+    font-size: 2.618rem;
     padding:0.5rem;
+}
+.groom{
+    font-size: 1.618rem
 }
 
 #td
@@ -243,8 +246,7 @@ footer {
     
     }
     #header{
-        margin-top: 4rem;
-        margin-bottom:2rem
+        padding-top: 2rem;
     }
     h1{
         font-size: 4.236em;
@@ -272,17 +274,14 @@ footer {
         margin:auto;
         line-height:1.5em;
     }
-section{
+header,section{
       margin-top: 2rem;
       margin-bottom: 2rem;
     
     }
-    header{
-        margin-top:4rem;
-    margin-bottom:2rem;
-}
+
     #header{
-       padding: 2rem;
+       padding-top: 2rem;
     }
     h1{
         font-size: 3.6em;
