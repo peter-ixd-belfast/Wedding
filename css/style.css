@@ -30,21 +30,16 @@ section{
     max-width:900px;
     margin:auto;
 }
-/*--
+
+div{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
 section {
     margin-top: 2rem;
     margin-bottom:2rem;
 }
-header{    
-    background:#003333;
-    width:80%;
-    max-width:900px;
-    margin:auto;
-}
-header{
-    margin-bottom:10rem;
-}
---*/
+
 p {
     font-size: 1.25rem;
     color: #cc9933;
