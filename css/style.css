@@ -235,10 +235,14 @@ footer {
           margin:auto;
           line-height:1.5em;
       }
-      header,section{
+    section,header{
         margin-top: 2rem;
         margin-bottom: 2rem;
     
+    }
+    #header{
+        margin-top: 4rem;
+        margin-bottom:2rem
     }
     h1{
         font-size: 4.236em;
@@ -270,6 +274,10 @@ footer {
       margin-top: 2rem;
       margin-bottom: 2rem;
     
+    }
+    #header{
+        margin-top: 4rem;
+        margin-bottom:2rem
     }
     h1{
         font-size: 3.6em;
