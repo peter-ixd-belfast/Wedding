@@ -318,8 +318,14 @@ footer {
     padding-bottom:2rem;
 }
 #top{
-    padding-bottom: 1rem;
+    margin-top: 4rem;
+    padding: 2rem, 0rem, 1rem, 0rem;
 }
+#header{
+    margin-top: 2rem;
+
+}
+
 
       
     }
@@ -391,8 +397,14 @@ header,section{
     padding-bottom:2rem;
 }
 #top{
-    padding-bottom: 1rem;
+    margin-top: 4rem;
+    padding: 2rem, 0rem, 1rem, 0rem;
 }
+#header{
+    margin-top: 2rem;
+
+}
+
 
 
     }
