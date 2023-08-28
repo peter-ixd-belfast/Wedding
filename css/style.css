@@ -288,7 +288,18 @@ footer {
         padding: 1.5rem 0;
         font-size: 0.85rem;
     }
+    nav ul{
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    nav ul li {
+        display: inline;
+        margin: 20px;
+        background: none;
     
+    
+    }
     h1{
         font-size: 4.236rem;
     }
@@ -367,7 +378,20 @@ section{
         padding: 1rem 0;
         font-size: 0.85rem;
     }
+    nav ul{
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    nav ul li {
+        
+            width: 50%;
+            float: left;
+            padding: 5px 0; 
+        
     
+    
+    }
     h1{
         font-size: 4.236rem;
     }
