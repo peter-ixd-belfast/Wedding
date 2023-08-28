@@ -160,7 +160,7 @@ nav a:hover {
     padding-top: 3rem;
 }
 #schedimg{
-    padding:0;
+    padding:0,0,1rem,0;
 }
 
 
@@ -329,7 +329,7 @@ footer {
     padding-top: 1.5rem;
 }
 #schedimg{
-    padding:0;
+    padding:0,0,1rem,0;
 }
 
       
@@ -409,7 +409,7 @@ section{
     padding-top: 1rem;
 }
 #schedimg{
-    padding:0;
+    padding:0,0,1rem,0;
 }
 
     }
