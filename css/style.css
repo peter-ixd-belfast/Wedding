@@ -376,7 +376,7 @@ section{
         background-color:#003333;
         opacity: 85%;
         padding: 1rem 0;
-        padding-bottom: 3rem;
+        margin-bottom:3rem;
         font-size: 0.85rem;
     }
     nav ul{
