@@ -325,7 +325,12 @@ footer {
     margin-top: 15rem;
 
 }
-
+#sched{
+    padding-top: 1.5rem;
+}
+#schedimg{
+    padding:0;
+}
 
       
     }
@@ -400,6 +405,11 @@ section{
     margin-top: 15rem;
 }
 
-
+#sched{
+    padding-top: 1rem;
+}
+#schedimg{
+    padding:0;
+}
 
     }
