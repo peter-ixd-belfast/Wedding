@@ -376,7 +376,6 @@ section{
         background-color:#003333;
         opacity: 85%;
         padding: 1rem 0;
-        margin-bottom:3rem;
         font-size: 0.85rem;
     }
     nav ul{
@@ -429,7 +428,7 @@ section{
     padding-bottom:2rem;
 }
 #top{
-    margin-top: 15rem;
+    margin-top: 30rem;
 }
 
 #sched{
