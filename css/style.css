@@ -157,9 +157,11 @@ nav a:hover {
    
 }
 #sched{
-    padding: 0;
+    padding-top: 3rem;
 }
-
+#schedimg{
+    padding:0;
+}
 
 
 /*--Image Styling--*/
