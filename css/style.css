@@ -386,7 +386,7 @@ section{
     nav ul li {
         
         display: inline-block;
-        margin: 20px;
+        padding: 0.5rem;
         background: none; 
         
     
